@@ -1,2 +1,2 @@
 # python-dev
-my python project
+This project tells you how to make a easy dictionary using python
