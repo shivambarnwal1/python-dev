@@ -4,4 +4,4 @@ d1={"dry":"सूखा", "set":"नबंरों का समूह","abando
 
 while(True):
 	a1=input("enter a word:")
-	print(d1.get(a1))
+	
